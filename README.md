@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Pratap Singh</h1>
 <h3 align="center">Aspiring Data Analyst | MCA Graduate | Python & Web Dev Enthusiast</h3>
 
-- 🔭 I’m currently working on [Currently working on BankInsight – a banking domain EDA project to explore client engagement, deposits, loans, and risk metrics](https://github.com/Vijay-pratap-singh-1/Banking-Domain)
+- 🔭 I’m currently working on [ BankInsight – a banking domain EDA project to explore client engagement, deposits, loans, and risk metrics](https://github.com/Vijay-pratap-singh-1/Banking-Domain)
 
 - 🌱 I’m currently learning **React.js, Next.js, and TailwindCSS for modern frontend development. Also exploring Power BI, machine learning basics, and data storytelling techniques in Data Science.**
 
